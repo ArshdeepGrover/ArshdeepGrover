@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/ArshdeepGrover" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://www.commudle.com/users/ArshDeepSingh" target="blank">
 Arshdeep Singh</a></h1>
 
 <p> <img align="right" src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
@@ -9,13 +9,19 @@ Arshdeep Singh</a></h1>
 </a> -->
 <div align="center" >
 
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=commudle&repo=commudle-ng&show_owner=true&theme=chartreuse-dark"></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=chartreuse-dark"></p>
+
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&layout=compact&hide=TSQL&theme=chartreuse-dark" alt="ArshdeepGrover"></p>
 
- <p ><img src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&count_private=true&show_icons=true&theme=chartreuse-dark" alt="ArshdeepGrover"></p> 
+ <p ><img src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" alt="ArshdeepGrover"></p> 
 
  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=ArshdeepGrover&theme=chartreuse-dark"></p>
+ 
 
-![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00)
+
+<!-- ![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00) -->
 
 </div>
 
@@ -35,7 +41,3 @@ Arshdeep Singh</a></h1>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\ -->
-
----
-
-Credits: [Arshdeep Singh Grover](https://github.com/ArshdeepGrover)
