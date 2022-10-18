@@ -22,9 +22,8 @@
 - :nerd_face: Always learning new things
 
 - 📄 Know about my experiences <a href="https://www.commudle.com/users/ArshdeepGrover/(p:resume/d32f571d-c04b-4c67-aba9-d32916efa8c6)" target="_blank">Resume</a>
-<div>
 <br>
-
+<div align="center">
 <h2>Contribution in Projects</h2>
   <a href="https://www.commudle.com/" target="_blank" >
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=commudle&repo=commudle-ng&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
@@ -35,11 +34,14 @@
   </a>
 </div>
 
-<h2> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp; Git Activeness</h2>
+<br></br>
+<h2 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp; Git Activeness</h2>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" alt="ArshdeepGrover">
-
+</p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshdeepGrover&theme=chartreuse-dark" alt="ArshdeepGrover">
-
+</p>
 <!-- ![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00) -->
 <br>
 
