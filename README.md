@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.commudle.com/users/ArshdeepGrover" target="_blank"> Arshdeep Singh</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.commudle.com/users/ArshdeepSingh" target="_blank"> Arshdeep Singh</a></h1>
 <h3 align="center">A passionate Web developer from New,Delhi India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
@@ -21,7 +21,7 @@
 
 - :nerd_face: Always learning new things
 
-- 📄 Know about my experiences <a href="https://www.commudle.com/users/ArshdeepGrover/(p:resume/d32f571d-c04b-4c67-aba9-d32916efa8c6)" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://www.commudle.com/users/ArshdeepSingh/(p:resume/d32f571d-c04b-4c67-aba9-d32916efa8c6)" target="_blank">Resume</a>
 <br>
 <div align="center">
 <h2>Contribution in Projects</h2>
