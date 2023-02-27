@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16712%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16712%26project%3D%26in%3D0)](https://codetime.dev)
 
 
 <a target="_blank" align="center">
