@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
 
-[![CodeTime badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16712%26project%3D%26in%3D0)](https://codetime.dev)
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="PNG" src="https://www.rohitchauhan.co.in/images/home-right.png">
 </a>
