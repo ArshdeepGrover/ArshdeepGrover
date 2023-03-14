@@ -7,6 +7,8 @@
   <img align="right" top="500" height="300" width="300" alt="PNG" src="https://www.rohitchauhan.co.in/images/home-right.png">
 </a>
 
+- Code Time **[![wakatime](https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg)](https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a)**
+
 - 🔭 I’m currently working in <a href="https://www.commudle.com/" target="_blank">Commudle</a>
 
 - :computer: I’m currently Working on Web (Angular)
@@ -15,7 +17,7 @@
 
 - :technologist: I love using Software as a solution for every **Problem**
 
-<!-- - 💬 Ask me about **Angular & TailwindCSS** -->
+- 💬 Ask me about **Angular & TailwindCSS** 
 
 - 📫 How to reach me **arsh199820@gmail.com**
 
