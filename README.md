@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
 
+<a href="https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a"><img src="https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg" alt="Total time coded since Feb 26 2023" /></a>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="300" alt="PNG" src="https://www.rohitchauhan.co.in/images/home-right.png">
 </a>
