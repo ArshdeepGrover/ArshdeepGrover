@@ -40,6 +40,9 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" alt="ArshdeepGrover">
 </p>
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&theme=chartreuse-dark&hide_progress=true" alt="ArshdeepGrover">
+</p> -->
 <!-- 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshdeepGrover&theme=chartreuse-dark" alt="ArshdeepGrover">
