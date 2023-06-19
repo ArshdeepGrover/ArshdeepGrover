@@ -27,18 +27,18 @@
 <div align="center">
 <h2>Contribution in Projects</h2>
   <a href="https://www.commudle.com/" target="_blank" >
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=commudle&repo=commudle-ng&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
+    <img  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=commudle&repo=commudle-ng&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
   </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://moviesearchapp-15aec.web.app/" target="_blank">
-    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
+    <img  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
   </a>
 </div>
 
 <br></br>
 <h2 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp; Git Activeness</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" alt="ArshdeepGrover">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArshdeepGrover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=chartreuse-dark" alt="ArshdeepGrover">
 </p>
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&theme=chartreuse-dark&hide_progress=true" alt="ArshdeepGrover">
