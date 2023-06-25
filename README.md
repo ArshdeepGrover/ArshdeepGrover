@@ -8,6 +8,8 @@
   <img align="right" top="500" height="300" width="300" alt="PNG" src="https://www.rohitchauhan.co.in/images/home-right.png">
 </a>
 
+<p>I have a keen interest in software development. I am always looking for new opportunities to learn, grow, and contribute to the skills and abilities that I have</p>
+
 - 🔭 I’m currently working in <a href="https://www.commudle.com/" target="_blank">Commudle</a>
 
 - :computer: I’m currently Working on Web (Angular)
