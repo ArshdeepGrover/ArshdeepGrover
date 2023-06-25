@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.commudle.com/users/ArshdeepSingh" target="_blank"> Arshdeep Singh</a></h1>
-<h3 align="center">A passionate Web developer from New,Delhi India &#127470;&#127475</h3>
+<h3 align="center">A passionate Web developer from New Delhi, India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
 
@@ -51,6 +51,27 @@
 </p>
 ![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00) -->
 <br>
+<h2 align="center">Social Media</h2>
+<p align="center">
+   <a href="https://www.instagram.com/grover.arshdeep/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"/> 
+  </a>
+   <a href="https://www.linkedin.com/in/arshdeepgrover/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Linkedin"/> 
+  </a>
+  <a href="https://twitter.com/ArshdeepGroverS" target="_blank"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter"/> 
+  </a>
+   <a href="https://medium.com/@ArshdeepGrover" target="_blank"> 
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+      alt="Medium"/> 
+  </a> 
+</p>
+
+
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
