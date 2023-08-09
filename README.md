@@ -45,12 +45,13 @@
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&theme=chartreuse-dark&hide_progress=true" alt="ArshdeepGrover">
 </p> -->
-<!-- 
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshdeepGrover&theme=chartreuse-dark" alt="ArshdeepGrover">
 </p>
-![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00) -->
-<br>
+<!--
+![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00)
+<br>-->
 <h2 align="center">Social Media</h2>
 <p align="center">
    <a href="https://www.instagram.com/grover.arshdeep/" target="_blank"> 
