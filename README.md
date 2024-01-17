@@ -87,9 +87,17 @@
     <img src="https://img.shields.io/badge/angular-C3002F.svg?style=for-the-badge&logo=angular&logoColor=white"
       alt="angular"/> 
   </a>
+  <a href="https://www.ruby-lang.org/en//" target="_blank"> 
+    <img src="https://img.shields.io/badge/ruby-CC332D.svg?style=for-the-badge&logo=ruby&logoColor=white"
+      alt="ruby"/>
+  </a>
    <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
+  </a>
+  <a href="https://rubyonrails.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/rails-D20002.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
+      alt="ruby on rails"/>
   </a>
    <a href="https://html.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
