@@ -50,6 +50,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshdeepGrover&theme=chartreuse-dark" alt="ArshdeepGrover">
 </p> 
+
 [![An image of @arshdeepgrover's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshdeepgrover)](https://holopin.io/@arshdeepgrover)
 <!--
 ![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00)
