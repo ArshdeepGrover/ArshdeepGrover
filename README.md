@@ -24,7 +24,7 @@
 
 - :nerd_face: Always learning new things
 
-- 📄 Know about my experiences <a href="https://www.commudle.com/users/ArshdeepSingh/(p:resume/d32f571d-c04b-4c67-aba9-d32916efa8c6)" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1s1o3KQQ3XlyHIMswh77Dd1YzlPl2UBkA/view?usp=share_link" target="_blank">Resume</a>
 <br>
 <div align="center">
 <h2>Contribution in Projects</h2>
@@ -47,9 +47,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&theme=chartreuse-dark&hide_progress=true" alt="ArshdeepGrover">
 </p> -->
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ArshdeepGrover&theme=chartreuse-dark" alt="ArshdeepGrover">
-</p> -->
+</p> 
 [![An image of @arshdeepgrover's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arshdeepgrover)](https://holopin.io/@arshdeepgrover)
 <!--
 ![Arshdeep Singh' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArshdeepGrover&custom_title=Arshdeep%20Singh%27s%20Contribution%20Graph&theme=chartreuse-dark&hide_border=true&line=6BD600&point=00)
