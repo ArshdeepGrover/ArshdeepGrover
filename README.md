@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.commudle.com/users/ArshdeepSingh" target="_blank"> Arshdeep Singh</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://arshdeep-singh.vercel.app/" target="_blank"> Arshdeep Singh</a></h1>
 <h3 align="center">A passionate Web developer from New Delhi, India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
 
 <a href="https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a"><img src="https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg" alt="Total time coded since Feb 26 2023" /></a>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="PNG" src="https://www.rohitchauhan.co.in/images/home-right.png">
+<a target="_blank" align="center"  href="https://arshdeep-singh.vercel.app/">
+  <img align="right" top="500" height="300" style="transform: scaleX(-1);" width="300" alt="Arshdeep Singh" src="https://arshdeep-singh.vercel.app/assets/images/ArshdeepSingh.png">
 </a>
 
 <!--  <p>I have a keen interest in software development. I am always looking for new opportunities to learn, grow, and contribute to the skills and abilities that I have</p> -->
