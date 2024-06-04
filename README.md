@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm <a href="https://arshdeep-singh.vercel.app/" target="_blank"> Arshdeep Singh</a></h1>
 <h3 align="center">A passionate Web developer from New Delhi, India &#127470;&#127475</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat" alt="ArshdeepGrover" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=ArshdeepGrover&label=Profile%20views&color=0e75b6&style=flat)
 
-<a href="https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a"><img src="https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg" alt="Total time coded since Feb 26 2023" /></a>
+[![Total time coded](https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg)](https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a)
+
 <a target="_blank" align="center"  href="https://arshdeep-singh.vercel.app/">
   <img align="right" top="500" height="300" style="transform: scaleX(-1);" width="300" alt="Arshdeep Singh" src="https://arshdeep-singh.vercel.app/assets/images/ArshdeepSingh.png">
 </a>
 
 <!--  <p>I have a keen interest in software development. I am always looking for new opportunities to learn, grow, and contribute to the skills and abilities that I have</p> -->
 
-- 🔭 I’m currently working in <a href="https://www.commudle.com/" target="_blank">Commudle</a>
+- 🔭 I’m currently working in [Commudle](https://www.commudle.com/)
 
 - :computer: I’m currently Working on Web (Angular)
 
@@ -20,11 +21,11 @@
 
 - 💬 Ask me about **Angular & TailwindCSS** 
 
-- 📫 How to reach me **arsh199820@gmail.com**
+- 📫 How to reach me [arsh199820@gmail.com](mailto:arsh199820@gmail.com)
 
 - :nerd_face: Always learning new things
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1s1o3KQQ3XlyHIMswh77Dd1YzlPl2UBkA/view?usp=share_link" target="_blank">Resume</a>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s1o3KQQ3XlyHIMswh77Dd1YzlPl2UBkA/view?usp=share_link)
 <br>
 <div align="center">
 <h2>Contribution in Projects</h2>
