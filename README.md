@@ -25,7 +25,7 @@
 
 - :nerd_face: Always learning new things
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s1o3KQQ3XlyHIMswh77Dd1YzlPl2UBkA/view?usp=share_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1s1o3KQQ3XlyHIMswh77Dd1YzlPl2UBkA/view?usp=share_link](https://arshdeep-singh.vercel.app/assets/resume/arshdeep-singh.pdf))
 <br>
 <div align="center">
 <h2>Contribution in Projects</h2>
@@ -35,6 +35,16 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://moviesearchapp-15aec.web.app/" target="_blank">
     <img  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
+  </a>
+  <br>
+  <br>
+  <br>
+   <a href="https://moviesearchapp-15aec.web.app/" target="_blank">
+    <img  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=portfolio&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://moviesearchapp-15aec.web.app/" target="_blank">
+    <img  src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=groupix-spinner-library&show_owner=true&theme=chartreuse-dark" alt="ArshdeepGrover">
   </a>
 </div>
 
