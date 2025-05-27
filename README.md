@@ -9,11 +9,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://arshdeep-singh.vercel.app/">
     <img src="https://arshdeep-singh.vercel.app/assets/images/ArshdeepSingh.png" width="300" height="300" style="border-radius: 50%; transform: scaleX(-1);" alt="Arshdeep Singh"/>
   </a>
-</p>
+</p> -->
 
 ---
 
