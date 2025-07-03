@@ -20,11 +20,10 @@
 ### 💼 About Me
 
 - 🔭 Currently working at [Commudle](https://www.commudle.com/)
-- 💻 Focused on **Web Development (Angular)**
-- 🌱 Learning **Ruby on Rails**
-- 💬 Ask me about **Angular, TailwindCSS, and building modern UIs**
+- 💻 Focused on **Web Development (Angular, Ruby On Rails)**
+- 💬 Ask me about **Angular, TailwindCSS, ROR, Database, RDBMS and building modern UIs**
 - 📫 Reach me at: [arsh199820@gmail.com](mailto:arsh199820@gmail.com)
-- 📄 [View Resume](https://arshdeep-singh.vercel.app/assets/resume/arshdeep-singh.pdf)
+- 📄 [View Resume](https://www.arshdeepsingh.info/assets/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
 - 🚀 Always curious and improving
 
 ---
