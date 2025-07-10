@@ -23,7 +23,7 @@
 - 💻 Focused on **Web Development (Angular, Ruby On Rails)**
 - 💬 Ask me about **Angular, TailwindCSS, ROR, Database, RDBMS and building modern UIs**
 - 📫 Reach me at: [arsh199820@gmail.com](mailto:arsh199820@gmail.com)
-- 📄 [View Resume](https://www.arshdeepsingh.info/assets/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
+- 📄 [View Resume](https://www.arshdeepsingh.info/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
 - 🚀 Always curious and improving
 
 ---
