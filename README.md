@@ -9,19 +9,13 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://arshdeep-singh.vercel.app/">
-    <img src="https://arshdeep-singh.vercel.app/assets/images/ArshdeepSingh.png" width="300" height="300" style="border-radius: 50%; transform: scaleX(-1);" alt="Arshdeep Singh"/>
-  </a>
-</p> -->
-
 ---
 
 ### 💼 About Me
 
-- 🔭 Currently working at [Commudle](https://www.commudle.com/)
+- 🔭 Currently working at [Commudle](https://www.commudle.com/) as a Lead Software Developer
 - 💻 Focused on **Web Development (Angular, Ruby On Rails)**
-- 💬 Ask me about **Angular, TailwindCSS, ROR, Database, RDBMS and building modern UIs**
+- 💬 Ask me about **Angular, TailwindCSS, ROR, Database and building modern UIs**
 - 📫 Reach me at: [arsh199820@gmail.com](mailto:arsh199820@gmail.com)
 - 📄 [View Resume](https://www.arshdeepsingh.info/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
 - 🚀 Always curious and improving
@@ -32,16 +26,26 @@
 
 <p align="center">
   <a href="https://www.commudle.com/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=commudle&repo=commudle-ng&show_owner=true&theme=chartreuse-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=commudle&repo=commudle-ng&show_owner=true&theme=dark"/>
+  </a>
+  <a href="https://github.com/ArshdeepGrover/groupix-spinner-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshdeepgrover&repo=groupix-spinner-library&show_owner=true&theme=dark"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/ArshdeepGrover/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshdeepgrover&repo=portfolio&show_owner=true&theme=dark"/>
+  </a>
+  <a href="https://github.com/ArshdeepGrover/TextTransformer-Chrome">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArshdeepGrover&repo=TextTransformer-Chrome&show_owner=true&theme=dark"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/ArshdeepGrover/QuizzySpark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArshdeepGrover&repo=QuizzySpark&show_owner=true&theme=dark"/>
   </a>
   <a href="https://moviesearchapp-15aec.web.app/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=chartreuse-dark"/>
-  </a>
-  <a href="https://arshdeep-singh.vercel.app/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=portfolio&show_owner=true&theme=chartreuse-dark"/>
-  </a>
-  <a href="https://moviesearchapp-15aec.web.app/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=arshdeepgrover&repo=groupix-spinner-library&show_owner=true&theme=chartreuse-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=dark"/>
   </a>
 </p>
 
@@ -50,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArshdeepGrover&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArshdeepGrover&theme=chartreuse-dark"/>
 </p>
 
 <p align="center">
