@@ -22,7 +22,7 @@
 
 ---
 
-### 📌 Featured Projects
+<!-- ### 📌 Featured Projects
 
 <p align="center">
   <a href="https://www.commudle.com/">
@@ -47,7 +47,7 @@
   <a href="https://moviesearchapp-15aec.web.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshdeepgrover&repo=searchmovie&show_owner=true&theme=dark"/>
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -57,9 +57,10 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArshdeepGrover&theme=chartreuse-dark"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arshdeepgrover&title=Reviews,PullRequest,Commits&theme=darkhub"/>
-</p>
+  <img src="https://streak-stats.demolab.com/?user=ArshdeepGrover&theme=chartreuse-dark"/>
+</p> 
 
 ---
 
