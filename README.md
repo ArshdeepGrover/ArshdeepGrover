@@ -34,7 +34,7 @@
 - 💻 **Expertise:** Full Stack Development with **Angular**, **Ruby on Rails**, and modern web technologies
 - 🏆 **Mentoring:** Active hackathon mentor and judge, helping developers build innovative solutions
 - 🌟 **Open Source:** Created multiple Ruby gems and developer tools used by the community
-- 💬 **Ask me about:** Angular, TailwindCSS, Ruby on Rails, Database Design, Modern UI/UX
+- 💬 **Ask me about:** Angular, TailwindCSS, Ruby on Rails, Database Design, Modern UI/UX, AI Tool Integration
 - 📫 **Contact:** [arsh199820@gmail.com](mailto:arsh199820@gmail.com)
 - 📄 **Resume:** [Download PDF](https://www.arshdeepsingh.info/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
 - 🚀 **Philosophy:** Always learning, always building, always improving
@@ -48,7 +48,8 @@
 | 🎯 **Achievement** | 📊 **Impact** | 🔗 **Link** |
 |-------------------|---------------|-------------|
 | **Rails Route Visualization Gem** | Developer productivity tool | [View Demo](https://rails-map.netlify.app/) |
-| **Chrome Extension (TextTransformer)** | 1000+ active users | [Chrome Store](https://chromewebstore.google.com/detail/ajekflcjkiojnebaonccmaemifdndgdi) |
+| **AI Tool Collection** | Curated directory of AI tools | [View Collection](https://ai-tool-collection.vercel.app/) |
+| **Chrome Extension (TextTransformer)** | Text transformation tool | [Chrome Store](https://chromewebstore.google.com/detail/ajekflcjkiojnebaonccmaemifdndgdi) |
 | **Groupix Spinner Library** | NPM package for developers | [NPM Package](https://www.npmjs.com/package/groupix-spinner) |
 | **Interactive Learning Tools** | Educational web applications | [Quizzy Spark](https://quizzy-spark.vercel.app/) |
 
