@@ -8,7 +8,7 @@
   <a href="https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a" target="_blank">
     <img src="https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg" alt="Total time coded" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen" alt="Experience" />
+  <img src="https://img.shields.io/badge/Experience-4%20Years-brightgreen" alt="Experience" />
   <img src="https://img.shields.io/badge/Projects-15%2B-blue" alt="Projects" />
 </p>
 
