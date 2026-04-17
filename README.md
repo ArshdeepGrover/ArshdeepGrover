@@ -1,5 +1,5 @@
 <!-- README.md for Arshdeep Singh -->
-<h1 align="center">Hi 👋, I'm <a href="https://arshdeep-singh.vercel.app/" target="_blank">Arshdeep Singh</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://arshdeep-singh.vercel.app/" target="_blank">Arshdeep Singh Grover</a></h1>
 <h3 align="center">🚀 Full Stack Developer | 🏆 Hackathon Mentor & Judge | 💎 Open Source Contributor</h3>
 <h4 align="center">Crafting scalable web solutions with Angular & Ruby on Rails from New Delhi, India 🇮🇳</h4>
 
