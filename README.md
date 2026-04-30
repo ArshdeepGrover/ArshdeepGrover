@@ -1,5 +1,5 @@
 <!-- README.md for Arshdeep Singh -->
-<h1 align="center">Hi 👋, I'm <a href="https://arshdeep-singh.vercel.app/" target="_blank">Arshdeep Singh Grover</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.arshdeepgrover.dev/" target="_blank">Arshdeep Singh Grover</a></h1>
 <h3 align="center">🚀 Full Stack Developer | 🏆 Hackathon Mentor & Judge | 💎 Open Source Contributor</h3>
 <h4 align="center">Crafting scalable web solutions with Angular & Ruby on Rails from New Delhi, India 🇮🇳</h4>
 
@@ -35,8 +35,10 @@
 - 🏆 **Mentoring:** Active hackathon mentor and judge, helping developers build innovative solutions
 - 🌟 **Open Source:** Created multiple Ruby gems and developer tools used by the community
 - 💬 **Ask me about:** Angular, TailwindCSS, Ruby on Rails, Database Design, Modern UI/UX, AI Tool Integration
-- 📫 **Contact:** [arsh199820@gmail.com](mailto:arsh199820@gmail.com)
-- 📄 **Resume:** [Download PDF](https://www.arshdeepsingh.info/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
+- 📫 **Contact:** [arshdeepgroverdev@gmail.com](mailto:arshdeepgroverdev@gmail.com)
+- 🌐 **Portfolio:** [arshdeepgrover.dev](https://www.arshdeepgrover.dev/)
+- 🔗 **All Links:** [links.arshdeepgrover.dev](https://links.arshdeepgrover.dev/)
+- 📄 **Resume:** [Download PDF](https://www.arshdeepgrover.dev/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
 - 🚀 **Philosophy:** Always learning, always building, always improving
 
 ---
@@ -106,6 +108,12 @@
 
 <div align="center">
 
+<a href="https://www.arshdeepgrover.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://links.arshdeepgrover.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/All%20Links-FF5733?style=for-the-badge&logo=linktree&logoColor=white" alt="All Links" />
+</a>
 <a href="https://www.linkedin.com/in/arshdeepgrover/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -115,7 +123,7 @@
 <a href="https://medium.com/@ArshdeepGrover" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="https://www.instagram.com/grover.arshdeep/" target="_blank">
+<a href="https://www.instagram.com/arshdeepgrover.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://topmate.io/arshdeepgrover" target="_blank">
