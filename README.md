@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** based in Delhi NCR & Punjab, India with **3+ years** of experience building scalable web applications. I've grown from intern to **Lead Developer** at [Commudle](https://www.commudle.com/) — leading end-to-end product delivery, mentoring developers, and shipping features used by thousands of users.
+I'm a **Full-Stack Developer** based in Delhi NCR & Punjab, India with **3+ years** of experience building scalable web applications. I've grown from intern to **Lead Developer** at [Commudle](https://www.commudle.com/) leading end-to-end product delivery, mentoring developers, and shipping features used by thousands of users.
 
 Currently exploring exciting new opportunities in **full-stack development** — preferably at a forward-thinking MNC, edtech company, or product startup. Open to remote roles too.
 
