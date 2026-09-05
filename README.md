@@ -94,7 +94,7 @@ Currently exploring exciting new opportunities in **full-stack development** —
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arshdeepgrover.dev/)
 [![All Links](https://img.shields.io/badge/All%20Links-FF5733?style=for-the-badge&logo=linktree&logoColor=white)](https://links.arshdeepgrover.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshdeepgrover/)
-[![Commudle](https://img.shields.io/badge/Commudle-7B2FBE?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.commudle.com/users/ArshdeepGrover)
+[![Commudle](https://img.shields.io/badge/Commudle-7B2FBE?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.commudle.com/users/arshdeepgrover)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ArshdeepGrover)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArshdeepGroverS)
 [![TopMate](https://img.shields.io/badge/TopMate-00D4AA?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/arshdeepgrover)
