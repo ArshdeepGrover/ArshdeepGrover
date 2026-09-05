@@ -103,20 +103,6 @@ Currently exploring exciting new opportunities in **full-stack development** —
 
 ---
 
-## 💼 Open to Opportunities
-
-<div align="center">
-
-> 🟢 **Currently open to full-time SDE roles** — Full-Stack, Frontend, or Backend  
-> 📍 Delhi NCR | Punjab | **Remote (preferred)**  
-> 📬 Reach me at **arsh199820@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/arshdeepgrover/)
-
-**Also available for:** Freelance projects · Technical consulting · Code reviews · 1:1 Mentorship via [TopMate](https://topmate.io/arshdeepgrover)
-
-</div>
-
----
-
 <div align="center">
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/ArshdeepGrover)
