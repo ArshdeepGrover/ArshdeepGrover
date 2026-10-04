@@ -1,117 +1,124 @@
-<!---
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Arshdeep%20Singh&fontSize=40&fontAlignY=35&desc=Training%20Delivery%20Specialist%20%40%20Google%20%7C%20Ex-Lead%20Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16)
--->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Arshdeep%20Singh&fontSize=40&fontAlignY=35&desc=%20Lead%20Software%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16)
+<div align="center">
 
-<p align="center">
-  <a href="https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a">
-    <img src="https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg" alt="Total time coded" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-<!---
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=650&lines=Training+Delivery+Specialist+%40+Google+%F0%9F%9A%80;Ex-Lead+Full-Stack+Developer+(Angular+%2B+RoR);Hackathon+Mentor+%26+Open+Source+Builder;Always+Up+for+a+Good+Collaboration+%F0%9F%91%80" alt="Typing SVG" />
-  </a>
-</p>
---->
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=650&lines=Lead+Software+Developer+%28Angular+%2B+RoR%29;Hackathon+Mentor+%26+Open+Source+Builder;Always+Up+for+a+Good+Collaboration+%F0%9F%91%80" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://www.arshdeepgrover.dev/">
+  <img src="./assets/header.svg" width="100%" alt="Arshdeep Singh, Training Delivery Specialist at Google Operations Center and full-stack developer. Null the pixel cat walks across the banner." />
+</a>
+
+<br />
+
+<a href="https://www.arshdeepgrover.dev/"><img src="https://img.shields.io/badge/arshdeepgrover.dev-0a0a0c?style=for-the-badge&logo=angular&logoColor=FF7955" alt="Portfolio" /></a>
+<a href="https://talks.arshdeepgrover.dev/"><img src="https://img.shields.io/badge/talks-0a0a0c?style=for-the-badge&logo=googleslides&logoColor=FF7955" alt="Talks" /></a>
+<a href="https://links.arshdeepgrover.dev/"><img src="https://img.shields.io/badge/all%20links-0a0a0c?style=for-the-badge&logo=linktree&logoColor=FF7955" alt="All links" /></a>
+<a href="https://www.linkedin.com/in/ArshdeepGrover/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=FF7955" alt="LinkedIn" /></a>
+<a href="https://www.arshdeepgrover.dev/resume/Arshdeep_Singh_Resume.pdf"><img src="https://img.shields.io/badge/resume-FF7955?style=for-the-badge&logo=readdotcv&logoColor=0a0a0c" alt="Resume" /></a>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ArshdeepGrover&color=FF7955&style=flat-square&label=profile+views" alt="Profile views" />
+<a href="https://wakatime.com/@d6cc73e5-bd8b-4101-a5b3-3df8c64e560a"><img src="https://wakatime.com/badge/user/d6cc73e5-bd8b-4101-a5b3-3df8c64e560a.svg?style=flat-square" alt="Time coded" /></a>
+<img src="https://img.shields.io/github/followers/ArshdeepGrover?style=flat-square&color=FF7955&labelColor=0a0a0c&label=followers" alt="Followers" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
-<!---
-I'm a **Training Delivery Specialist** at **Google Operations Center (GOC)**, based in Delhi NCR, India — where technical depth meets instructional design. 
---->
-I bring **4+ years of web application development** alongside hands-on experience in training delivery, mentoring, and curriculum development, facilitating everything from onboarding programs and technical workshops to 24-hour hackathon coaching sessions.
+### 👋 Hi, I'm Arshdeep
 
-Before this, I grew from intern to **Lead Developer** at [Commudle](https://www.commudle.com/), where alongside shipping production features I designed internal onboarding/training programs, ran Agile ceremonies, and mentored junior and mid-level engineers. My path also runs through a **Technical Trainer** stint at Coding Ninjas (designing learning modules and assessments for **50+ student cohorts**), a **Technical Support Executive** role coordinating a support team, and a **Social Media & Content Specialist** role running digital campaigns — the throughline across my career has been pairing technical skill with teaching, communication, and cross-functional delivery.
+I'm a **Training Delivery Specialist at Google Operations Center**, delivering technical programmes to development and QA teams.
 
-<!---
-| Training Delivery Specialist | Google Operations Center (GOC) | Training & Enablement | Delhi NCR |
---->
+Before that I built full-stack products in **Angular** and **Ruby on Rails**, growing from intern to lead developer at [Commudle](https://www.commudle.com/), a developer community platform used by 50,000+ people. The work I'm proudest of: a hackathon platform taken from an empty repo to production, a payments integration that runs real money, and a frontend that got measurably faster.
 
-| 💼 **Role** | 🏢 **Company** | 🌟 **Focus** | 📍 **Location** |
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami prints Arshdeep Singh, Training Delivery Specialist at GOC. The stack is Angular, Ruby on Rails, TypeScript and PostgreSQL." />
+</div>
+
+---
+
+### 🧭 Right now
+
+| | |
+|---|---|
+| 🎓 **Training** | Delivering technical programmes at Google Operations Center |
+| 🎤 **Speaking** | *Building Faster with AI*, a hands-on intro to AI-assisted coding at MAIMS, Delhi. Deck at [talks.arshdeepgrover.dev](https://talks.arshdeepgrover.dev/) |
+| 🏆 **Hackathons** | Mentoring and judging with GDG chapters, Commudle and college tech societies |
+| ✍️ **Writing** | Notes on web development at [blogs.arshdeepgrover.dev](https://blogs.arshdeepgrover.dev/) and [Medium](https://medium.com/@ArshdeepGrover) |
+| 💬 **Ask me about** | Angular · Ruby on Rails · AI-assisted coding · Razorpay payments · headless CMS · running a hackathon |
+
+---
+
+### 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,ruby,rails,html,css,sass,tailwind&theme=dark" alt="Angular, TypeScript, JavaScript, Ruby, Rails, HTML, CSS, Sass, Tailwind" />
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,nodejs,firebase,git,github,gitlab,vercel,figma,vscode&theme=dark" alt="PostgreSQL, Node.js, Firebase, Git, GitHub, GitLab, Vercel, Figma, VS Code" />
+
+</div>
+
+---
+
+### 📊 GitHub, by the numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0a0a0c&title_color=FF7955&icon_color=FF7955&text_color=eeebe5&ring_color=FF7955&custom_title=Arshdeep%27s%20GitHub" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0c&title_color=FF7955&text_color=eeebe5&custom_title=Most%20used%20languages" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=ArshdeepGrover&hide_border=true&background=0A0A0C&ring=FF7955&fire=FF7955&currStreakLabel=FF7955&sideLabels=EEEBE5&currStreakNum=EEEBE5&sideNums=EEEBE5&dates=A19E96&stroke=2A2A2E" alt="Contribution streak" />
+
+
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArshdeepGrover/ArshdeepGrover/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArshdeepGrover/ArshdeepGrover/output/snake-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/ArshdeepGrover/ArshdeepGrover/output/snake-dark.svg" alt="A coral snake eating the contribution graph" />
+</picture>
+
+</div>
+
+---
+
+### 📦 Open source
+
+| Project | What it is | Stack | Try it |
 |---|---|---|---|
-| Lead Software Developer *(former)* | [Commudle](https://www.commudle.com/) | Full Stack (Angular + RoR) + Internal Training | New Delhi |
-| Technical Trainer *(former)* | Coding Ninjas | Curriculum Design & Coaching | New Delhi |
-| Hackathon Mentor & Judge | Various Events | Developer Growth | India |
-| Open Source Contributor | GitHub | Ruby Gems & Web Tools | Global |
-
----
-
-## 🔭 What I'm Up To
-<!---
-- 🎓 **Delivering:** Training and enablement programs at Google Operations Center
---->
-
-- 🌱 **Learning:** The training/delivery landscape, stakeholder mapping, and enablement best practices at scale
-- 🤝 **Mentoring:** Developers at hackathons, workshops, and coaching cohorts across India
-- 📦 **Open Source:** Maintaining Ruby gems and NPM packages from my dev background
-- 💬 **Ask me about:** Curriculum design & instructional strategy, training delivery, Angular, Ruby on Rails, TailwindCSS, Razorpay integrations, Sanity CMS, Google Tag Manager (GTM)
-- 📄 **Resume:** [Download PDF](https://www.arshdeepgrover.dev/resume/Arshdeep_Singh_SoftwareDeveloper_Resume.pdf)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Training & Facilitation:** Curriculum Development · Workshop Facilitation · LMS Administration · Adult Learning Principles · Instructional Design · Assessment Design
+| **[Groupix Spinner](https://github.com/ArshdeepGrover/groupix-spinner-library)** | Lightweight, zero-dependency loader component library | Angular · TypeScript | [npm](https://www.npmjs.com/package/groupix-spinner) · [demo](https://groupix-spinner.vercel.app/) |
+| **[content_flagging](https://rubygems.org/gems/content_flagging)** | Content moderation and flagging for Rails apps | Ruby · Rails | [demo](https://content-flagging.netlify.app/) |
+| **[Rails Health Monitor](https://github.com/ArshdeepGrover/rails-health-monitor)** | Health checks and a status dashboard for Rails apps | Ruby · Rails | [demo](https://rails-health-monitor.netlify.app/) |
+| **[Rails Map](https://rails-map.netlify.app/)** | A visual map of your Rails routes | Ruby · Rails | [demo](https://rails-map.netlify.app/) |
 
 <div align="center">
-
-#### Frontend
-![Frontend](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,sass,figma)
-
-#### Backend
-![Backend](https://skillicons.dev/icons?i=ruby,rails,nodejs,postgresql,mongodb,firebase)
-
-#### Tools & DevOps
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,docker,postman,vercel,linux)
-
+  <a href="https://github.com/ArshdeepGrover/groupix-spinner-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArshdeepGrover&repo=groupix-spinner-library&hide_border=true&bg_color=0a0a0c&title_color=FF7955&icon_color=FF7955&text_color=eeebe5" alt="groupix-spinner-library" /></a>
+  <a href="https://github.com/ArshdeepGrover/rails-health-monitor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ArshdeepGrover&repo=rails-health-monitor&hide_border=true&bg_color=0a0a0c&title_color=FF7955&icon_color=FF7955&text_color=eeebe5" alt="rails-health-monitor" /></a>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🎤 Community
 
-| **Project** | **Description** | **Stack** | **Link** |
-|---|---|---|---|
-| **Groupix Spinner** | NPM spinner component library for developers | Angular, TypeScript | [NPM →](https://www.npmjs.com/package/groupix-spinner) |
-| **Quizzy Spark** | Interactive quiz & learning web app | JavaScript, Vercel | [Live →](https://quizzy-spark.vercel.app/) |
-| **Commudle Platform** | Community-driven tech event platform | Angular, Ruby on Rails | [Visit →](https://www.commudle.com/) |
+| When | Role | Event |
+|---|---|---|
+| Oct 2026 | 🎙️ Speaker | Building Faster with AI, MAIMS Delhi |
+| Sep 2026 | 🧭 Mentor | NexHack 2.0, NexVerse IITM |
+| Jun 2026 | 🧭 Mentor · ★ mentor award | Hack Days Delhi, Commudle Developer Network |
+| May 2026 | 🧭 Mentor | Code Nakshatra 2.0, TIIPS Greater Noida · 200+ participants |
+| Apr 2026 | ⚖️ Judge | The Dev Arena, GDG × CULMYCA, JC Bose UST |
 
-> 💡 More projects on my [portfolio](https://www.arshdeepgrover.dev/)
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.arshdeepgrover.dev/)
-[![All Links](https://img.shields.io/badge/All%20Links-FF5733?style=for-the-badge&logo=linktree&logoColor=white)](https://links.arshdeepgrover.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshdeepgrover/)
-[![Commudle](https://img.shields.io/badge/Commudle-7B2FBE?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.commudle.com/users/arshdeepgrover)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ArshdeepGrover)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArshdeepGroverS)
-[![TopMate](https://img.shields.io/badge/TopMate-00D4AA?style=for-the-badge&logo=calendly&logoColor=white)](https://topmate.io/arshdeepgrover)
-
-</div>
+<sub>The full calendar is on <a href="https://www.arshdeepgrover.dev/#community">arshdeepgrover.dev</a>.</sub>
 
 ---
 
 <div align="center">
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/ArshdeepGrover)
+**Say hi:** [arshdeepgrover.dev@gmail.com](mailto:arshdeepgrover.dev@gmail.com) · [Book a 1:1](https://topmate.io/arshdeepgrover) · [X](https://x.com/ArshdeepGroverS) · [Medium](https://medium.com/@ArshdeepGrover) · [Dev.to](https://dev.to/arshdeepgrover)
 
-*"Great code is written with passion, fueled by coffee, and shared with the community."*
+<sub>P.S. The cat on the banner is <b>Null</b>. On <a href="https://www.arshdeepgrover.dev/">my site</a> it chases your cursor.</sub>
+
+<br /><br />
+
+<a href="https://www.buymeacoffee.com/ArshdeepGrover"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FF7955?style=for-the-badge&logo=buymeacoffee&logoColor=0a0a0c" alt="Buy me a coffee" /></a>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
