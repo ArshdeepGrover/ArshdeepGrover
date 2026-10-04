@@ -65,10 +65,6 @@ Before that I built full-stack products in **Angular** and **Ruby on Rails**, gr
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArshdeepGrover&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0a0a0c&title_color=FF7955&icon_color=FF7955&text_color=eeebe5&ring_color=FF7955&custom_title=Arshdeep%27s%20GitHub" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshdeepGrover&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0c&title_color=FF7955&text_color=eeebe5&custom_title=Most%20used%20languages" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=ArshdeepGrover&hide_border=true&background=0A0A0C&ring=FF7955&fire=FF7955&currStreakLabel=FF7955&sideLabels=EEEBE5&currStreakNum=EEEBE5&sideNums=EEEBE5&dates=A19E96&stroke=2A2A2E" alt="Contribution streak" />
-
-
-
 <br /><br />
 
 <picture>
